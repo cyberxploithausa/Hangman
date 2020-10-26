@@ -1,3 +1,11 @@
+############################################################
+#####                   CYBERXPLOIT                    #####
+##### PROJECT NAME: HANGMAN                            #####
+##### PROJECT ID: CYBX001                              #####
+#####                                                  #####
+############################################################
+
+
 import random
 from hangmanParts import parts
 from time import sleep
